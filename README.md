@@ -1,5 +1,5 @@
-# 캄캄(Calm-Calm)
-내 손안에 일기장_NLP/OCR 프로젝트
+# 캄캄(Calm-Calm) | NLP OCR 프로젝트
+내 손안에 일기장
 
 ![슬라이드1](https://github.com/user-attachments/assets/1d8a4758-31d5-483c-b2ce-37f088a53db9)
 ![슬라이드2](https://github.com/user-attachments/assets/4dc655e3-9ca6-4b01-b7ca-e98d0e59a638)
