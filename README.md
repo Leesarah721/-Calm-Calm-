@@ -1,7 +1,8 @@
-# 캄캄(Calm-Calm) | NLP OCR 프로젝트
-내 손안에 일기장
+# 캄캄(Calm-Calm) | 내 손안에 일기장 
+## NLP OCR 프로젝트
 
-프로젝트 관련 유튜브 영상을 [여기서 확인하세요](https://www.youtube.com/watch?v=KK3KhCQJrcw).
+### 프로젝트 발표영상 [보러가기](https://www.youtube.com/watch?v=KK3KhCQJrcw).
+![실행화면1_캄캄이(x2)](https://github.com/user-attachments/assets/50a6df37-7fb1-4724-977a-ca0c1abfaa60)
 
 ![슬라이드1](https://github.com/user-attachments/assets/1d8a4758-31d5-483c-b2ce-37f088a53db9)
 ![슬라이드2](https://github.com/user-attachments/assets/4dc655e3-9ca6-4b01-b7ca-e98d0e59a638)
